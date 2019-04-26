@@ -16,3 +16,9 @@
 [wanAndroid项目](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/wanAndroid%E9%A1%B9%E7%9B%AE)
 
 [MVP项目](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/MVP%E9%A1%B9%E7%9B%AE)
+
+[IM](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/IM)
+
+[MVVM](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/MVVM)
+
+[banner](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/banner)

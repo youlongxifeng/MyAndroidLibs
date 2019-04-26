@@ -63,7 +63,7 @@ https://github.com/yipianfengye/android-adDialog
  
  
  
- ---
+---
 ---
 
 **Android-Advert-SDK**
@@ -71,5 +71,22 @@ https://github.com/15527621771/Android-Advert-SDK
  
  
 ### 一款开源Andoid简易的广告SDK(（An open AndroidAdvert Channel SDK）)
+
+
+
+
+ 
+---
+---
+
+**MarqueeView**
+https://github.com/sunfusheng/MarqueeView
+ 
+ 
+### 一个简单，强大的广告活动弹窗控件
+
+
+
+<img src="https://github.com/sunfusheng/MarqueeView/raw/master/resources/MarqueeView.gif" width="270"/> 
 
  

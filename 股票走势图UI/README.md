@@ -52,4 +52,36 @@ https://github.com/donglua/JZAndroidChart
 
 
 
+
+---
+---
+
+**android-kline**
+https://github.com/VinsonGuo/android-kline
+ 
+ 
+### Android 股票图表库
+
+
+
+<img src="https://github.com/VinsonGuo/android-kline/raw/master/art/new_chart.gif" width="270"/><img src="https://github.com/VinsonGuo/android-kline/raw/master/art/new_chart.gif" width="270"/>
+
+
+---
+---
+
+**XCL-Charts**
+https://github.com/xcltapestry/XCL-Charts
+ 
+ 
+### Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Cir… http://blog.csdn.net/xcl168/article/d…
+
+
+
+<img src="https://raw.githubusercontent.com/xcltapestry/XCL-Charts/master/screens/dydialchart1.gif" width="270"/><img src="https://raw.githubusercontent.com/xcltapestry/XCL-Charts/master/screens/dydialchart4.gif" width="270"/>
+
+
+
+
+
  
