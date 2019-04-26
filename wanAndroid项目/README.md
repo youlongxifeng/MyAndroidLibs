@@ -1,6 +1,6 @@
-# AndroidLibs == AI VI
+# AndroidLibs == WanAndroid
 
-包含：各种 AI, VI, 人工智能, 神经网络, 模式识别...
+包含：收集到的有关WanAndroid的项目
 
 [<==返回首页==](https://github.com/youlongxifeng/MyAndroidLibs)
 
