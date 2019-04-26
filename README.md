@@ -24,3 +24,5 @@
 [banner](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/banner) 
 
 [综合资料篇](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/%E7%BB%BC%E5%90%88%E8%B5%84%E6%96%99%E7%AF%87) 
+
+[组件化项目](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/%E7%BB%84%E4%BB%B6%E5%8C%96%E6%A1%86%E6%9E%B6%E9%A1%B9%E7%9B%AE)

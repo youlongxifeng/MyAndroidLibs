@@ -6,110 +6,328 @@
 
 ---
 
-**Android-Advanced-Interview**:
-https://github.com/jinguangyue/Android-Advanced-Interview
+**XBaseAndroid**:
+https://github.com/fanhua1994/XBaseAndroid
 
-### 只针对 Android 高级开发整理的面试题以及答案，我目前就职于某度高级安卓工程师，在当下大环境中自己也想出分力，通过我的技术经验过滤出来很多优质文章，这里的每一篇文章我都认真看过，保证质量，祝大家面试高级安卓开发顺利！
+###  XBaseAndroid一款集成了网络请求，本地缓存，配置文件，数据库映射，权限申请，链表管理Activity，简化Activity、Service、Broadcast启动， 万能ListView,GridView适配器、高仿IOS弹窗、倒计时/延迟执行，标题栏组件,图片显示，webview引擎，APP更新组件，APP崩溃日志组件，线程池组件，视频播放器，三级地址选择，热更新组件
+
+
+<img src="" width="270"/><img src="" width="270"/>
+
+
+ ---
+ ---
+**EasyRouter**:
+https://github.com/Xiasm/EasyRouter
+
+### 如何一步步实现一个类似ARouter的Android路由框架，实现不同module的相互跳转，跟着我来实现就可以了
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+ ---
+ ---
+**frameDemoMo2**:
+https://github.com/tome34/frameDemoMo2
+
+### Android组件化项目框架 https://www.jianshu.com/p/ba32488f9555
+
+ 
+<img src="https://camo.githubusercontent.com/f27f78f56774a6f8644d77df3bb08cb2865d5f22/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343136373933382d623338656231633038366537393932332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="270"/><img src="https://camo.githubusercontent.com/5dbd1a71e8ddef0ea638814b87f2d1bbd05d2b95/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343136373933382d396137393931363633313938626664392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="270"/>
+
+
+ ---
+ ---
+**android-dynamic-features**:
+https://github.com/googlesamples/android-dynamic-features
+
+### PlayCore API sample
+This sample demonstrates usage of the PlayCore API.
+
+Read more at http://g.co/androidappbundle
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+ ---
+ ---
+**EasyRouter**:
+https://github.com/Xiasm/EasyRouter
+
+### 如何一步步实现一个类似ARouter的Android路由框架，实现不同module的相互跳转，跟着我来实现就可以了
+
+ 
+<img src="https://github.com/googlesamples/android-dynamic-features/raw/master/screenshots/main.png" width="270"/><img src="" width="270"/>
+
+
+ ---
+ ---
+**AndroidModular**:
+https://github.com/LiushuiXiaoxia/AndroidModular
+
+### 总结Android模块化的一些知识点。
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+ ---
+ ---
+**AndroidComponent**:
+https://github.com/wustor/AndroidComponent
+
+### Androdid组件化实战：通过gradle脚本，实现module在编译期隔离，运行期按需加载，实现组件间解耦，高效单独调试 https://wustor.tech/2018/01/21/Archit…
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+ ---
+ ---
+**AndroidCompontent**:
+https://github.com/wang709693972wei/AndroidCompontent
+
+### 如何一步步实现一个类似ARouter的Android路由框架，实现不同module的相互跳转，跟着我来实现就可以了
+
+ 
+<img src="https://camo.githubusercontent.com/74aa05d4bcbbcbe937a3818ded38ce14693bed41/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f363937303535352d393731393538383865363131356439322e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="270"/><img src="" width="270"/>
+
+
+
+
+ ---
+ ---
+**EasyRouter**:
+https://github.com/Xiasm/EasyRouter
+
+### 组件化，通过gradle脚本，实现module在编译期隔离，运行期按需加载，实现组件间解耦，高效单独调试
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+
+ ---
+ ---
+**CC**:
+https://github.com/luckybilly/CC  
+
+
+### 如何一步步实现一个类似ARouter的Android路由框架，实现不同module的相互跳转，跟着我来实现就可以了
+
+ 
+<img src="https://github.com/luckybilly/CC/raw/master/image/CC.gif" width="270"/><img src="" width="270"/>
+
+
+
+
+
+
+ ---
+ ---
+**DDComponentForAndroid**:
+https://github.com/luojilab/DDComponentForAndroid
+
+### 一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+.
+
+
+
+ ---
+ ---
+**NewFastFrame**:
+https://github.com/HelloChenJinJun/NewFastFrame
+
+### 终极组件化框架项目方案
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+ ---
+ ---
+**AndroidModular **:
+ https://github.com/LiushuiXiaoxia/AndroidModular
+
+###  总结Android模块化的一些知识点。
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
 
  
  
-**Android-Advanced-Interview**:
-https://github.com/jinguangyue/Android-Advanced-Interview
-
-###  如今安卓开发不像前几年那么热门，但是高级人才依然紧缺，大家看着这句话是不是很熟悉，因为 web 高级人才也紧缺，c++ 高级人才一样紧缺，那么到了人工智能时代，人工智能时代的高级人才也同样会紧缺！似乎是高级人才的人在其他领域也是高级人才，而不是因为选择了热门才会一帆风顺。
-
-
-
-
-**BestNote**:
-https://github.com/pengMaster/BestNote
-
-###  持续更新，Java Android 近几年最全面的技术点以及面试题 供自己学习使用
-
-
-**JavaGuide**:
-https://github.com/Snailclimb/JavaGuide#javaj2ee-%E5%9F%BA%E7%A1%80
-
-###  【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 https://gitee.com/SnailClimb/JavaGuide
-
-
-
-**LearningNotes**:
-https://github.com/francistao/LearningNotes
-
-###  持续更新，Java Android 近几年最全面的技术点以及面试题 供自己学习使用
  
- 
- **CS-Notes**:
-https://github.com/CyC2018/CS-Notes
+  ---
+ ---
+**Android-Router **:
+ https://github.com/myjoybar/Android-Router
 
-###   技术面试必备基础知识 https://cyc2018.github.io/CS-Notes/#/
- 
- 
- 
- **android_interview**:
-https://github.com/LRH1993/android_interview
-
-###  gitbook地址 https://lrh1993.gitbooks.io/android_i…
- 
- 
-**JCSprout**:
-https://github.com/crossoverJie/JCSprout
-
-###  持续更新，Java Android 近几年最全面的技术点以及面试题 供自己学习使用
-
-
-**LearningNotes**:
-https://github.com/francistao/LearningNotes
-
-###  Java Core Sprout : basic, concurrent, algorithm https://crossoverjie.top/JCSprout
-
-
-
-**YCBlogs**:
-https://github.com/yangchong211/YCBlogs
-
-###  技术博客笔记大汇总【15年10月到至今】，包括Java基础及深入知识点，Android技术博客，Python，Go学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字]，转载请注明出处，谢谢！
-
-
-
-
-
-**AOSF**:
-https://github.com/Ericsongyl/AOSF
-
-###  AOSF：全称为Android Open Source Framework，即Android优秀开源框架汇总。包含：网络请求okhttp，图片下载glide，数据库greenDAO，链式框架RxJava，组件路由ARouter，消息传递通信EventBus，热更新Tinker，插件化框架Replugin，文件下载FileDownloaer，图片选择PhotoPicker，图片滤镜/毛玻璃等特效处理，GIF图片展示控件，图片九宫格控件NineGridView，对话框Dialog，导航指示器ViewpagerIndicator，进度条ProgressWheel，下拉刷新SmartRefreshLayout，key-value高效数据存储MMKV等，应有尽有。
-
-
-
-
-**Awesome-Android-Learning-Guide**:
-https://github.com/iwannabetop/Awesome-Android-Learning-Guide
-
-###   史上最全的BAT大厂Android面试题汇集，以及常用的Android开发的一些技能点，冷门知识点汇总，开发中遇到的坑汇总等干货。
-
-
-
-
-
-**springboot-socks**:
-https://github.com/yizhiwazi/springboot-socks
-
-###  SpringBoot 基础教程 | 从入门到上瘾 | 基于2.0.0.M5制作
-
-
-
-**be-a-professional-programmer**:
-https://github.com/stanzhai/be-a-professional-programmer
-
-###  成为专业程序员路上用到的各种优秀资料、神器及框架 http://tools.stanzhai.site
-
-
-
-**android_interview**:
-https://github.com/LRH1993/android_interview
-
-###  gitbook地址 https://lrh1993.gitbooks.io/android_interview_guide/content/
-
+###  一个使用简单方便的Android router框架， 一个完整的Android模块化开发示例
 
  
+<img src="https://github.com/myjoybar/Android-Router/raw/master/screenshots/screenshot.gif" width="270"/><img src="https://github.com/myjoybar/Android-Router/raw/master/screenshots/screenshot.gif" width="270"/>
+
+
+
+
+ ---
+ ---
+**AndroidProject **:
+ https://github.com/getActivity/AndroidProject
+
+###  An advanced template project
+
+ <img src="https://github.com/getActivity/AndroidProject/raw/master/picture/0.png" width="270"/>
+<img src="https://github.com/getActivity/AndroidProject/raw/master/picture/1.gif" width="270"/><img src="https://github.com/getActivity/AndroidProject/raw/master/picture/2.png" width="270"/>
+
+
+
+
+
+ ---
+ ---
+**DemoComponent **:
+ https://github.com/cr330326/DemoComponent
+
+###  Android组件化框架设计与实现
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+ ---
+ ---
+** Router**:
+ https://github.com/JumeiRdGroup/Router
+
+###  一款单品、组件化、插件化全支持的Andoid端路由框架。 https://juejin.im/post/5a37771f6fb9a0…
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+ ---
+ ---
+** AndroidModuleDemo**:
+https://github.com/wutq/AndroidModuleDemo
+
+###  基于MVP搭建的组件化开发框架
+
+ 
+<img src="https://github.com/wutq/AndroidModuleDemo/raw/master/Screenshot/4.png" width="270"/><img src="https://github.com/wutq/AndroidModuleDemo/raw/master/Screenshot/4.png" width="270"/>
+
+
+
+
+ ---
+ ---
+** GoogleArchitectureDemo**:
+https://github.com/Dawish/GoogleArchitectureDemo
+
+###  基于谷歌最新MVVM实现组件化架构，使用dataBinding、lifecycle、retrofit2、rxjava2、okhttp、fresco、ARouter。
+
+ 
+<img src="https://github.com/Dawish/GoogleArchitectureDemo/raw/master/img/app_universal.png" width="270"/><img src="https://github.com/Dawish/GoogleArchitectureDemo/raw/master/img/app_specific.png" width="270"/>
+
+
+
+
+
+
+ ---
+ ---
+** DDComponentForAndroid**:
+https://github.com/luojilab/DDComponentForAndroid
+
+###  一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+
+
+ ---
+ ---
+** ARouter**:
+https://github.com/alibaba/ARouter
+
+###   (帮助 Android App 进行组件化改造的路由框架)
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+
+ ---
+ ---
+** Router**:
+https://github.com/chenenyu/Router
+
+###  一款单品、组件化、插件化全支持的Andoid端路由框架。 https://juejin.im/post/5a37771f6fb9a0…
+
+ 
+<img src="https://github.com/chenenyu/Router/raw/master/static/screenshot.gif" width="270"/><img src="" width="270"/>
+
+
+
+
+ ---
+ ---
+** WMRouter**:
+https://github.com/meituan/WMRouter
+
+
+###  WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。 https://tech.meituan.com/meituan_waim…
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+ ---
+ ---
+** ArmsComponent**:
+https://github.com/JessYanCoding/ArmsComponent
+
+
+###  s (MVPArms 官方快速组件化方案).
+
+
+ 
+<img src="" width="270"/><img src="" width="270"/>
+
+
+
+
+
+ ---
+ ---
+** JD-Test**:
+https://github.com/liu-xiao-dong/JD-Test
+
+
+###  仿京东app 全新组件化架构升级…
+
+ 
+<img src="https://github.com/liu-xiao-dong/JD-Test/raw/master/screenshot/screen_home.jpg?raw=true" width="270"/><img src="https://github.com/liu-xiao-dong/JD-Test/raw/master/screenshot/second.png?raw=true" width="270"/>
