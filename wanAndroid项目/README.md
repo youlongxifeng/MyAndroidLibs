@@ -14,6 +14,7 @@ https://github.com/ForgetSky/ForgetSkyWanAndroid
 <img src="https://github.com/ForgetSky/ForgetSkyWanAndroid/raw/master/screenshots/Screenshot_01.jpg" width="270"/> <img src="https://github.com/ForgetSky/ForgetSkyWanAndroid/raw/master/screenshots/Screenshot_02.jpg" width="270"/> 
 
 ---
+---
 
 **Awesome-WanAndroid**
 https://github.com/JsonChao/Awesome-WanAndroid
@@ -25,6 +26,9 @@ https://github.com/JsonChao/Awesome-WanAndroid
 <img src="https://raw.githubusercontent.com/JsonChao/Awesome-WanAndroid/master/screenshots/GIF3.gif" width="270"/><img src="https://raw.githubusercontent.com/JsonChao/Awesome-WanAndroid/master/screenshots/GIF6.gif" width="270"/>
 
 
+---
+---
+
 **WanAndroid**
 https://github.com/xujiaji/WanAndroid
 
@@ -32,7 +36,8 @@ https://github.com/xujiaji/WanAndroid
 ### 一个简洁漂亮与众不同的WanAndroid客户端，欢迎下载体验(〃'▽'〃)。（A simple and beautiful Wanandroid client App.) MVVM + Dagger2 + DataBinding + Lifecycle + OkHttp + Retrofit2
 <img src="https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/wanandroid/update/20190324190400.png" width="270"/><img src="https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/wanandroid/update/update_1_0_1.gif" width="270"/>
 
-
+---
+---
 
 
 **WanAndroidMaster**
@@ -45,6 +50,9 @@ https://github.com/yangmingchuan/WanAndroidMaster
 
 ---
 <img src="https://github.com/yangmingchuan/WanAndroidMaster/raw/master/app/src/main/res/drawable/wanandroid1.png" width="270"/> <img src="https://github.com/yangmingchuan/WanAndroidMaster/raw/master/app/src/main/res/drawable/wanandroid2.png" width="270"/><img src="https://github.com/yangmingchuan/WanAndroidMaster/raw/master/app/src/main/res/drawable/wanandroidwx.png" width="270"/>
+
+---
+---
 
 
 
@@ -79,6 +87,9 @@ Android Jetpack架构组件之WorkManger
 <img src="https://github.com/AlexTiti/WanAndroid/raw/master/screenshot/wanandroid.gif" width="270"/> 
 
 
+---
+---
+
 **WanAndroid**
 
 https://github.com/iceCola7/WanAndroid
@@ -91,7 +102,8 @@ https://github.com/iceCola7/WanAndroid
 <img src="https://github.com/iceCola7/WanAndroid/raw/master/art/01.png" width="270"/> <img src="https://github.com/iceCola7/WanAndroid/raw/master/art/02.png" width="270"/><img src="https://github.com/iceCola7/WanAndroid/raw/master/art/03.png" width="270"/>
 
 
-
+---
+---
 
 **WanAndroid**
 
@@ -103,6 +115,9 @@ https://github.com/SheHuan/WanAndroid
 
 ---
 <img src="https://github.com/SheHuan/WanAndroid/raw/master/preview/chapter.png" width="270"/> <img src="https://github.com/SheHuan/WanAndroid/raw/master/preview/article.png" width="270"/><img src="https://github.com/SheHuan/WanAndroid/raw/master/preview/tree_detail.png" width="270"/>
+
+---
+---
 
 
 **WanAndroid**
