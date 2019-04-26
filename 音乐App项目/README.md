@@ -261,7 +261,7 @@ https://github.com/umano/AndroidSlidingUpPanel
 ---
 
 **LyricHere**
-https://github.com/markzhai/LyricHere
+https://github.com/markzhai/LyricHere 
  
  
 ### Material design的音乐/歌词播放器，带独立的歌词播放模块。使用新的android.media.MediaMetadata系列API实现，支持API 14以上的系统。功能
