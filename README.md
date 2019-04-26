@@ -1,2 +1,2 @@
 # MyAndroidLibs
-看到AndroidLibs有感，自己也总结一下当前收录的Android 开源项目~~~~（长期更新 Star 一下吧）
+收集Android开发中优秀的开源组件库，方便大家查询，欢迎 PR 和 star~
