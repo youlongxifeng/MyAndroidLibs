@@ -21,4 +21,6 @@
 
 [MVVM](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/MVVM)
 
-[banner](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/banner)
+[banner](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/banner) 
+
+[综合资料篇](https://github.com/youlongxifeng/MyAndroidLibs/tree/master/%E7%BB%BC%E5%90%88%E8%B5%84%E6%96%99%E7%AF%87) 
