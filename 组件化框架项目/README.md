@@ -17,6 +17,16 @@ https://github.com/fanhua1994/XBaseAndroid
 
  ---
  ---
+**AndroidModulePattern**:
+https://github.com/guiying712/AndroidModulePattern
+
+### Android项目组件化示例代码，支持Fragment和View
+
+ 
+<img src="https://github.com/guiying712/AndroidModulePattern/raw/master/screenshots/Screenshot_2.png" width="270"/><img src="https://github.com/guiying712/AndroidModulePattern/raw/master/screenshots/Screenshot_3.png" width="270"/>
+
+ ---
+ ---
 **EasyRouter**:
 https://github.com/Xiasm/EasyRouter
 
