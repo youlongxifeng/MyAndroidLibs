@@ -23,6 +23,17 @@ https://github.com/guiying712/AndroidModulePattern
 ### Android项目组件化示例代码，支持Fragment和View
 
  
+<img src="https://camo.githubusercontent.com/097fa4e1278774da2bc7d800e8a758384d8bb55a/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303132363232323335393134362e676966" width="270"/><img src="https://camo.githubusercontent.com/097fa4e1278774da2bc7d800e8a758384d8bb55a/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303132363232323335393134362e676966" width="270"/>
+
+
+ ---
+ ---
+**FlyTour**:
+https://github.com/geduo83/FlyTour
+
+### Android MVP+组件化实战项目框架，工程架构采用gradle配置实现组件化，模块的架构采用典型的MVP架构，在Android项目框架搭建中中有很大的参考价值，MVP的架子直接复制粘贴到你的项目直接就能用，另外在长期的工作实践中总结整理大量的实用工具类在项目lib_common组件的util包当中
+
+ 
 <img src="https://github.com/guiying712/AndroidModulePattern/raw/master/screenshots/Screenshot_2.png" width="270"/><img src="https://github.com/guiying712/AndroidModulePattern/raw/master/screenshots/Screenshot_3.png" width="270"/>
 
  ---
