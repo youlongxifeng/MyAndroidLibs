@@ -4,6 +4,16 @@
 
 [<==返回首页==](https://github.com/youlongxifeng/MyAndroidLibs)
 
+---  
+
+**flutter_wanandroid**:
+https://github.com/Sky24n/flutter_wanandroid
+
+### 基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！
+
+<img src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/web_share.png" width="270"/> <img src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/upgrade_dialog.png" width="270"/> 
+
+---
 ---
 
 **ForgetSkyWanAndroid**:
