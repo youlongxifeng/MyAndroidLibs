@@ -112,4 +112,8 @@ https://github.com/LRH1993/android_interview
 ###  gitbook地址 https://lrh1993.gitbooks.io/android_interview_guide/content/
 
 
+**Android-ReadTheFuckingSourceCode**:
+https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode
+### 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新.
+
  
