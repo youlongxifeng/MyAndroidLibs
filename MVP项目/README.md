@@ -11,14 +11,15 @@
 **z_comic_new**
 https://github.com/zhhr1122/z_comic_new
 ### 一款采用MVP模式的设计的仿造腾讯漫画的APP
-
+<img src="https://github.com/zhhr1122/ZElasticRefreshScrollView/raw/master/image/image1.gif?raw=true?raw=true" width="270"/>
+<img src="https://camo.githubusercontent.com/757ec2dff45e46d54fdbbb03da2c0b99cbaa5881/68747470733a2f2f696d672d626c6f672e6373646e2e6e65742f3230313830343132313831343534323535" width="270"/>
 
 **mvpretrofitrx**
 https://github.com/senonwx/mvpretrofitrx
  
  
 ###   mvp+retrofit+rxjava改良版，新增lifecycle绑定生命周期防止内存泄露。抽象model类，可根据需求自定义model，也可直接使用父类model进行通用的网络请求。增加自定义网络异常，增加异常时回调实现。增加网络请求时dialog显示及取消显示的方法。里面已示例如何分包及一个test（logactivity相关） http://blog.csdn.net/qq_37173653/arti…
-<img src="https://github.com/zhhr1122/ZElasticRefreshScrollView/raw/master/image/image1.gif?raw=true?raw=true" width="270"/><img src="https://camo.githubusercontent.com/757ec2dff45e46d54fdbbb03da2c0b99cbaa5881/68747470733a2f2f696d672d626c6f672e6373646e2e6e65742f3230313830343132313831343534323535" width="270"/>
+
  
  
 
