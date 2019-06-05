@@ -7,6 +7,12 @@
  
 ---
 ---
+**FlyTour**
+https://github.com/geduo83/FlyTour
+###
+FlyTour新闻客户端是Android MVP+Dagger2+Retrofit+RxJava+组件化项目框架，工程架构采用gradle配置实现组件化，模块的架构采用典型的MVP架构，帮助你快速的搭建自己的App项目开发框架，以便把主要的精力放在自己的项目的业务功能实现上，另外在长期的工作实践中总结整理大量的实用工具类在项目lib_common组件的util包当中方便大家调用
+<img src="https://camo.githubusercontent.com/bb9425605588988e107c1c4b121ae8fbf43bb012/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f323031393035333031323132303731372e676966" width="270"/><img src="https://camo.githubusercontent.com/7485dab2f37ed4c17e4c11c047725d0618cdd6b6/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303533303132313932373737332e676966" width="270"/>
+
 
 **z_comic_new**
 https://github.com/zhhr1122/z_comic_new
