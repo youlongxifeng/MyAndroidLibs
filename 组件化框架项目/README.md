@@ -5,6 +5,12 @@
 [<==返回首页==](https://github.com/youlongxifeng/MyAndroidLibs)
 
 ---
+**FlyTour**:
+https://github.com/geduo83/FlyTour
+### FlyTour新闻客户端是Android MVP+Dagger2+Retrofit+RxJava+组件化项目框架，工程架构采用gradle配置实现组件化，模块的架构采用典型的MVP架构，帮助你快速的搭建自己的App项目开发框架，以便把主要的精力放在自己的项目的业务功能实现上，另外在长期的工作实践中总结整理大量的实用工具类在项目lib_common组件的util包当中方便大家调用
+<img src="https://camo.githubusercontent.com/bb9425605588988e107c1c4b121ae8fbf43bb012/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f323031393035333031323132303731372e676966" width="270"/><img src="https://camo.githubusercontent.com/e78d5282622c0c313100dd7d1ab2cc7047262d9c/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303533303132323130323638332e676966" width="270"/>
+
+
 
 **XBaseAndroid**:
 https://github.com/fanhua1994/XBaseAndroid
@@ -12,7 +18,7 @@ https://github.com/fanhua1994/XBaseAndroid
 ###  XBaseAndroid一款集成了网络请求，本地缓存，配置文件，数据库映射，权限申请，链表管理Activity，简化Activity、Service、Broadcast启动， 万能ListView,GridView适配器、高仿IOS弹窗、倒计时/延迟执行，标题栏组件,图片显示，webview引擎，APP更新组件，APP崩溃日志组件，线程池组件，视频播放器，三级地址选择，热更新组件
 
 
-<img src="" width="270"/><img src="" width="270"/>
+
 
 
  ---
