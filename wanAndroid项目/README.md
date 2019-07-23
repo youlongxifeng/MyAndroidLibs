@@ -6,6 +6,11 @@
 
 ---  
 
+**WanAndroid**:
+https://github.com/xing16/WanAndroid
+### 基于 wanandroid.com 和 gank.io API 开发的 MVP + Retrofit + RxJava2 组件化模式开发的 Android APP
+ <img src="https://github.com/xing16/WanAndroid/raw/master/ScreenShot/%E9%A1%B9%E7%9B%AE.png" width="270"/> <img src="https://github.com/xing16/WanAndroid/raw/master/ScreenShot/%E9%A6%96%E9%A1%B5.png" width="270"/>  
+
 **flutter_wanandroid**:
 https://github.com/Sky24n/flutter_wanandroid
 
