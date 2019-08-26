@@ -5,6 +5,10 @@
 [<==返回首页==](https://github.com/youlongxifeng/MyAndroidLibs)
 
 ---  
+**Reading**:
+https://github.com/Hankkin/Reading
+### Reading是一款基于WanAndroid OpenApi开发的阅读类工具，如果你是一个热衷于Android开发者，那么这款软件能帮助你阅读精品Android文章。 同时Reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"Kotlin+MVP"架构开发，风格大概也许属于Material Desgin原质化风格，包含主题颜色切换、百变Logo、 等功能。在此感谢WanAndroid的OpenApi,以及其它开源项目的贡献。 https://www.coolapk.com/apk/202780
+ <img src="https://github.com/Hankkin/Reading/raw/develop-1.0.0/sceenshot/reading.gif" width="270"/> <img src="https://github.com/Hankkin/Reading/raw/develop-1.0.0/sceenshot/1.jpeg" width="270"/>  
 
 **WanAndroid**:
 https://github.com/xing16/WanAndroid
